@@ -6,6 +6,7 @@
 - [Free Mobile Device Management - Spiceworks](http://www.spiceworks.com/free-mobile-device-management-mdm-software/) &#10004;
 - [Free Mobile Device Management - Cellabus](https://www.cellabus.com/)
 - [Free Mobile Device Management - Miradore](https://www.miradore.com/plans-pricing/) &#10004;
+- [Modo gestionado Miradore iOS](http://onlinesupport.miradore.com/hc/communities/public/questions/206391629-What-is-iOS-supervised-mode-)
 
 
 
