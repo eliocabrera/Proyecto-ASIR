@@ -5,6 +5,7 @@
 - [Gestión de dispositivos Móviles - Samsung](http://www.samsung.com/es/business/solutions-services/mobile-solutions/security/mobile-device-management)
 - [Free Mobile Device Management - Spiceworks](http://www.spiceworks.com/free-mobile-device-management-mdm-software/)
 - [Free Mobile Device Management - Cellabus](https://www.cellabus.com/)
+- [Free Mobile Device Management - Miradore](https://www.miradore.com/plans-pricing/)
 
 
 
